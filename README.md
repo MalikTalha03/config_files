@@ -5,7 +5,7 @@
 - Uninstall any existing Java version  
 
 ## 2. Install Java 1.8
-- Download and install **Java 1.8 (JDK 8)** from this github repo.  
+- Download and install **Java 1.8 (JDK 8)** from this [Google Drive Link](https://drive.google.com/file/d/1A35HQ4RPQXrERdSRnIzC451HXEIY-vS9/view?usp=sharing).  
 - After installation, verify the installed version by running:
   ```sh
   java -version
