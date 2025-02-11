@@ -42,7 +42,7 @@ If Maven is not installed, follow these steps:
 ## 5. Install ConQAT Dependency
 In the **IDE terminal**, run:
 ```sh
-mvn install:install-file -Dfile="conqat-2017.4.14.jar" -DgroupId=org.conqat -DartifactId=conqat-engine -Dversion=2017.4.14 -Dpackaging=jar
+mvn install:install-file -Dfile="conqat-2017.4.14.jar" -DgroupId='org.conqat' -DartifactId='conqat-engine' -Dversion='2017.4.14' -Dpackaging='jar'
 ```
 This will sync all dependencies.
 
